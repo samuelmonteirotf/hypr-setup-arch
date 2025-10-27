@@ -20,7 +20,7 @@
 
 
 ```bash
-git clone [https://github.com/IhTiYaR0/myconfig.git](https://github.com/samuelmonteirotf/hypr-setup-arch.git)
+git clone https://github.com/samuelmonteirotf/hypr-setup-arch.git
 cd hypr-setup-arch
 bash installpkg.sh
 chmod +x install.sh
